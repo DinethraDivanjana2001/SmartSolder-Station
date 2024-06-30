@@ -1,0 +1,116 @@
+Change Component Footprint: Designator=MP1 Old Footprint=FP-577202B00000G-MFG New Footprint=FP-WV-T264-101E-MFG
+Change Component Footprint: Designator=MP2 Old Footprint=FP-577202B00000G-MFG New Footprint=FP-WV-T264-101E-MFG
+Change Component Footprint: Designator=MP3 Old Footprint=FP-577202B00000G-MFG New Footprint=FP-WV-T264-101E-MFG
+Change Component Footprint: Designator=MP4 Old Footprint=FP-577202B00000G-MFG New Footprint=FP-WV-T264-101E-MFG
+Change Component Footprint: Designator=MP5 Old Footprint=FP-577202B00000G-MFG New Footprint=FP-WV-T264-101E-MFG
+Change Component Comment : Designator=MP1 Old Comment=577202B00000G New Comment=WV-T264-101E
+Change Component Comment : Designator=MP2 Old Comment=577202B00000G New Comment=WV-T264-101E
+Change Component Comment : Designator=MP3 Old Comment=577202B00000G New Comment=WV-T264-101E
+Change Component Comment : Designator=MP4 Old Comment=577202B00000G New Comment=WV-T264-101E
+Change Component Comment : Designator=MP5 Old Comment=577202B00000G New Comment=WV-T264-101E
+Change Managed Component Library Link : Designator=MP1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7900F0D4-8237-4710-8E18-C4E49482B905 New ItemGUID=6BFD8D51-B5BB-41B3-B2BF-97148A7F2722 Old RevisionGUID=3075E78A-B719-4B5D-B8B0-D6F1884A68B7 New RevisionGUID=05C02775-010B-48F6-BDB0-0EE9C9E9E981
+Change Managed Component Library Link : Designator=MP2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7900F0D4-8237-4710-8E18-C4E49482B905 New ItemGUID=6BFD8D51-B5BB-41B3-B2BF-97148A7F2722 Old RevisionGUID=3075E78A-B719-4B5D-B8B0-D6F1884A68B7 New RevisionGUID=05C02775-010B-48F6-BDB0-0EE9C9E9E981
+Change Managed Component Library Link : Designator=MP3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7900F0D4-8237-4710-8E18-C4E49482B905 New ItemGUID=6BFD8D51-B5BB-41B3-B2BF-97148A7F2722 Old RevisionGUID=3075E78A-B719-4B5D-B8B0-D6F1884A68B7 New RevisionGUID=05C02775-010B-48F6-BDB0-0EE9C9E9E981
+Change Managed Component Library Link : Designator=MP4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7900F0D4-8237-4710-8E18-C4E49482B905 New ItemGUID=6BFD8D51-B5BB-41B3-B2BF-97148A7F2722 Old RevisionGUID=3075E78A-B719-4B5D-B8B0-D6F1884A68B7 New RevisionGUID=05C02775-010B-48F6-BDB0-0EE9C9E9E981
+Change Managed Component Library Link : Designator=MP5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7900F0D4-8237-4710-8E18-C4E49482B905 New ItemGUID=6BFD8D51-B5BB-41B3-B2BF-97148A7F2722 Old RevisionGUID=3075E78A-B719-4B5D-B8B0-D6F1884A68B7 New RevisionGUID=05C02775-010B-48F6-BDB0-0EE9C9E9E981
+Change component parameters: Designator = "MP1" ("MP1"); Footprint = "FP-577202B00000G-MFG"; UniqueID = "\RAMOJSZE\ZXHXWDWZ" ("\RAMOJSZE\ZXHXWDWZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "32mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height Off Base"; Value = "0.63inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.26inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Clip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Natural Thermal Resistance"; Value = "12°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Cooled"; Value = "TO-264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "8°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.42oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "23.4mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MP2" ("MP2"); Footprint = "FP-577202B00000G-MFG"; UniqueID = "\RAMOJSZE\XHCFYGOU" ("\RAMOJSZE\XHCFYGOU")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "32mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height Off Base"; Value = "0.63inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.26inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Clip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Natural Thermal Resistance"; Value = "12°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Cooled"; Value = "TO-264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "8°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.42oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "23.4mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MP3" ("MP3"); Footprint = "FP-577202B00000G-MFG"; UniqueID = "\RAMOJSZE\RJHQDVWE" ("\RAMOJSZE\RJHQDVWE")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "32mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height Off Base"; Value = "0.63inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.26inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Clip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Natural Thermal Resistance"; Value = "12°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Cooled"; Value = "TO-264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "8°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.42oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "23.4mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MP4" ("MP4"); Footprint = "FP-577202B00000G-MFG"; UniqueID = "\BPDDFJXO\RWFINRLC" ("\BPDDFJXO\RWFINRLC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "32mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height Off Base"; Value = "0.63inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.26inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Clip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Natural Thermal Resistance"; Value = "12°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Cooled"; Value = "TO-264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "8°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.42oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "23.4mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MP5" ("MP5"); Footprint = "FP-577202B00000G-MFG"; UniqueID = "\KBPONDTL\UKSWEMUH" ("\KBPONDTL\UKSWEMUH")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "32mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height Off Base"; Value = "0.63inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.26inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Clip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Natural Thermal Resistance"; Value = "12°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Cooled"; Value = "TO-264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "8°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.42oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "23.4mm"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=ENCODER_1_D_1_2 New Net Name=ENCODER_1_D_1
+Change Net Name : Old Net Name=ENCODER_1_D_2_2 New Net Name=ENCODER_1_D_2
+Change Net Name : Old Net Name=ENCODER_1_PWM_2 New Net Name=ENCODER_1_PWM
+Change Net Name : Old Net Name=ENCODER_2_D_1_2 New Net Name=ENCODER_2_D_1
+Change Net Name : Old Net Name=ENCODER_2_D_2_2 New Net Name=ENCODER_2_D_2
+Change Net Name : Old Net Name=ENCODER_2_PWM_2 New Net Name=ENCODER_2_PWM
+Change Net Name : Old Net Name=POT_2 New Net Name=POT
+Change Net Name : Old Net Name=RESET_2 New Net Name=RESET
+Change Net Name : Old Net Name=SCL_2 New Net Name=SCL
+Change Net Name : Old Net Name=SDA_2 New Net Name=SDA
+Change Class Name : Old Net Name=Designator New Net Name=Power Circuit
+Added Class: Name=AC circuit
+Added Class: Name=Current control iron
+Added Class: Name=Fan control hot air
+Added Class: Name=Temperature sensor
+Added Class: Name=Tem sensor hot air

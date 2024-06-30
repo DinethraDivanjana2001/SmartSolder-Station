@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=J4 Old Footprint=FP-B5B-EH-A_LF_SN-MFG New Footprint=B5BXHAMLFSN
+Change Component Footprint: Designator=J5 Old Footprint=FP-B5B-EH-A_LF_SN-MFG New Footprint=B5BXHAMLFSN
+Change Component Comment : Designator=J4 Old Comment=B5B-EH-A(LF)(SN) New Comment=B5B-XH-AM__LF__SN_
+Change Component Comment : Designator=J5 Old Comment=B5B-EH-A(LF)(SN) New Comment=B5B-XH-AM__LF__SN_
+Change Managed Component Library Link : Designator=J4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=8C356068-82F4-45E0-AA24-6BF4C7882624 New ItemGUID= Old RevisionGUID=EF499907-3F7F-46A3-B169-0D32D0BDED63 New RevisionGUID=
+Change Managed Component Library Link : Designator=J5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=8C356068-82F4-45E0-AA24-6BF4C7882624 New ItemGUID= Old RevisionGUID=EF499907-3F7F-46A3-B169-0D32D0BDED63 New RevisionGUID=
+Change component parameters: Designator = "J4" ("J4"); Footprint = "FP-B5B-EH-A_LF_SN-MFG"; UniqueID = "\QRWLBFZM\VJIJOYAY" ("\QRWLBFZM\VJIJOYAY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B5B-XH-AM (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b5b-xh-am-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1755317"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B5B-XH-AM (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = "ENCODER_IRON"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "FP-B5B-EH-A_LF_SN-MFG"; UniqueID = "\QRWLBFZM\GIYJLLLC" ("\QRWLBFZM\GIYJLLLC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B5B-XH-AM (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b5b-xh-am-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/1755317"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B5B-XH-AM (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = "ENCODER_HOT_AiR"; VariantName = "[No Variations]"
