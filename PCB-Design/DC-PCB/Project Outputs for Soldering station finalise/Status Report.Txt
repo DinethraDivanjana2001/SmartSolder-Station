@@ -1,0 +1,38 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Soldering station finalise.PrjPcb]
+   Generated File[DC_PCB.GTO]
+   Generated File[DC_PCB.GTP]
+   Generated File[DC_PCB.GTS]
+   Generated File[DC_PCB.GTL]
+   Generated File[DC_PCB.GBL]
+   Generated File[DC_PCB.GBS]
+   Generated File[DC_PCB.GBP]
+   Generated File[DC_PCB.GBO]
+   Generated File[DC_PCB.GM1]
+   Generated File[DC_PCB.GM2]
+   Generated File[DC_PCB.GM3]
+   Generated File[DC_PCB.GM5]
+   Generated File[DC_PCB.GM13]
+   Generated File[DC_PCB.GM15]
+   Generated File[DC_PCB.GM16]
+   Generated File[DC_PCB.GM20]
+   Generated File[DC_PCB.GM21]
+   Generated File[DC_PCB.GM23]
+   Generated File[DC_PCB.GM24]
+   Generated File[DC_PCB.GKO]
+   Generated File[DC_PCB.GPT]
+   Generated File[DC_PCB.GPB]
+   Generated File[DC_PCB.1]
+   Generated File[DC_PCB.GML]
+   Generated File[DC_PCB.GD1]
+   Generated File[DC_PCB.GG1]
+   Generated File[DC_PCB.GM]
+   Generated File[DC_PCB.EXTREP]
+   Generated File[DC_PCB.REP]
+
+
+Files Generated   : 29
+Documents Printed : 0
+
+Finished Output Generation At 10:08:16 PM On 4/16/2024
